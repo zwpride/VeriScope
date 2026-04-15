@@ -1,0 +1,10 @@
+pyyaml>=6.0
+click>=8.1.0
+colorama>=0.4.6
+tabulate>=0.9.0
+vcdvcd>=2.3.0
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-timeout>=2.1.0
+black>=23.0.0
+flake8>=6.0.0

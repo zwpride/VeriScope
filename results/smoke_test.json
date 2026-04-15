@@ -1,0 +1,13 @@
+{
+  "summary": {
+    "mode": "full",
+    "problem_root": "public_release/huggingface_dataset/bundles",
+    "prediction_file": "public_release/github_repo/examples/sample_predictions.json",
+    "bundle_count": 568,
+    "invalid_bundle_count": 0,
+    "prediction_count": 2,
+    "status": "layout_valid",
+    "note": "Replace this lightweight wrapper with the final public evaluation entrypoint for the release."
+  },
+  "invalid_bundles": []
+}
